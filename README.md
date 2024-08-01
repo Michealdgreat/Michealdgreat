@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Michealdgreat
-- 👀 I'm interested in building Web APIs and mobile applications.
+- 👋 Hi, I’m Micheal D'great
+- 👀 I'm interested in building Web APIs and Mobile applications.
 - 🌱 I'm currently learning system design, focusing on load balancing, maintainability, and scalability.
 - 💞️ I’m looking to collaborate on any .NET Project.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/micheal-shodamola-4400b528b/)
