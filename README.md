@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Micheal D'great
 - 👀 I'm interested in building Web APIs and Mobile applications.
+- 💖 I really enjoy working with SQL, Stored Procedures, and Dapper.
+- 🤯 I have a deep appreciation for the genius behind design patterns, and I’m grateful to the community of developers who have contributed these practical solutions.
 - 🌱 I'm currently learning system design, focusing on load balancing, maintainability, and scalability.
 - 💞️ I’m looking to collaborate on any .NET Project.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/micheal-shodamola-4400b528b/)
