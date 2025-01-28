@@ -3,7 +3,7 @@
 - 💖 I also really enjoy working with SQL, Stored Procedures, and Dapper.
 - 🌱 I'm passionate about creating scalable and maintainable systems for high-performance applications.
 - 🤯 I have a deep appreciation for the genius behind design patterns, and I’m grateful to the community of developers who have contributed these practical solutions.
-- 💞️ I’m looking to collaborate on any .NET Project.
+- 💞️ I’m looking to collaborate on any Project.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/micheal-shodamola-4400b528b/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm probably the best pingpong 🏓 player in Finland!😁
