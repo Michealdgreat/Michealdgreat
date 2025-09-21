@@ -1,6 +1,6 @@
 - Hi, I’m Micheal Shodamola
 - I love building Web APIs and Mobile applications.
-- I also really enjoy working with SQL, and Dapper.
+- I also really enjoy working with SQL.
 - I'm passionate about creating scalable and maintainable systems for high-performance applications.
 - I have a deep appreciation for the genius behind design patterns, and I’m grateful to the community of developers who have contributed these practical solutions.
 - I’m looking to collaborate on any Project.
