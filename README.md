@@ -11,57 +11,66 @@ Building production web apps, APIs, and cross-platform mobile products end to en
 
 ## About
 
-I design, build, and ship real products independently - from UI and mobile apps to APIs, databases, and production ops.  
-Strongest in **TypeScript/React** and **C# / ASP.NET Core**, with backend work in **Go** and **Kotlin**, and daily work across **.NET MAUI**, **PostgreSQL**, and **Azure**.
+I design, build, and ship real products that solves real-world problems for users and businesses. From UI and mobile apps to APIs, databases, and production ops.  
+Strongest in **TypeScript/React** and **C# / ASP.NET Core**, **Go** and **Kotlin**, and daily work across **.NET MAUI**, **PostgreSQL**, **MSSQL**, **Azure**, **Google Cloud** and **AWS**.
 
 ---
 
 ## Skills
 
-**Languages:** TypeScript · JavaScript · C# · Go · Kotlin · SQL · Python · Java  
+**Languages:** C# · TypeScript · JavaScript · Go · Kotlin · SQL · Python · Java  
 **Frontend:** React · HTML · CSS · responsive UI · component architecture  
-**Backend:** Go · Kotlin · ASP.NET Core · REST APIs · PostgreSQL · SignalR  
+**Backend:** C# · Go · ASP.NET Core · REST APIs · PostgreSQL · SignalR  
 **Mobile:** .NET MAUI (Android & iOS) · Swift/Kotlin at platform level  
 **Tools:** Azure · Playwright · Stripe · Firebase · Git  
 
 ---
 
-## Projects
-
-### [Ovitori](https://ovitori.fi) · Delivery marketplace
-Multi-sided delivery marketplace connecting customers, merchants, and couriers.  
-**Stack:** React/TypeScript web · iOS and Android · ASP.NET Core API · PostgreSQL · Stripe · SignalR  
-**Role:** Founder & full-stack engineer - UI, mobile app, API, payments, live order updates, store publishing.
-
-### [ShiftPilot](https://shiftpilot.fi) · Workforce scheduling
-Production scheduling platform for teams.  
-**Stack:** React/TypeScript web · iOS and Android · C# / ASP.NET Core · PostgreSQL · Azure  
-**Role:** Founder - own frontend, backend, and product delivery.
-
-### [Deliverr](https://deliverr.fi) · Logistics & dispatch platform
-On-demand delivery network for merchants, customers, and couriers - restaurants, groceries, retail, and errands.  
-**Stack:** React/Vite web · iOS and Android · ASP.NET Core API · PostgreSQL · SignalR · Stripe  
-**Role:** Founder & full-stack engineer - merchant dashboards, courier dispatch, real-time tracking, proof-of-delivery, merchant API integrations, and mobile apps.
-
-### [FreeStuff](https://freestuff.fi) · Marketplace
-Community marketplace from concept to production.  
-**Stack:** React/TypeScript · iOS and Android · ASP.NET Core · PostgreSQL  
-
-### [Elohvate Oy](https://elohvate.fi) · Product studio
-Independent software company behind Deliverr, Ovitori, ShiftPilot, and FreeStuff.
-
----
-
 ## Experience
 
-**Founder & Software Engineer** · Elohvate Oy · 2024 - Present  
-Own multiple production codebases: feature delivery, debugging, refactoring, and shipping.
+**Software Engineer** ·
+[Elohvate Oy](https://elohvate.fi) · Finland · elohvate.fi  
+Build and operate production software products for the Finnish ecosystem: APIs, PostgreSQL models, integrations, deployments, and ongoing support. Own features from design through production, with maintainable tested code and clear operational ownership.
 
-**RDI Software Development Intern** · Centria UAS · 2024  
-Applied RDI software projects with mobile and Azure tooling.
 
-**Software Development Intern** · TUTORS Finland Oy · 2024  
-Supported feature implementation in a small team.
+
+[Deliverr](https://deliverr.fi) · deliverr.fi  
+**Problem:** local merchants need reliable on-demand dispatch without running their own courier fleet.  
+Backend for a logistics network connecting merchants, customers, and couriers: order intake, assignment, real-time tracking, payments, and proof of delivery. PostgreSQL, REST APIs, SignalR, Stripe.
+
+
+  
+[Ovitori](https://ovitori.fi) · ovitori.fi  
+**Problem:** customers and stores need a simpler marketplace for ordering and delivery coordination.  
+Marketplace backend: merchant catalog and order flows, courier coordination, payments, and live status updates. ASP.NET Core, PostgreSQL, web and mobile clients.
+
+
+
+[ShiftPilot](https://shiftpilot.fi) · shiftpilot.fi  
+**Problem:** Finnish teams struggle to plan shifts, track hours, and export payroll cleanly.  
+Scheduling platform API: shift planning, timesheets, and payroll export. Strong SQL modeling and Playwright coverage on critical flows.
+
+
+
+[SimpleShop](https://simpleshop.elohvate.fi/) · simpleshop.elohvate.fi · [demo](https://demo.simpleshop.elohvate.fi/)  
+**Problem:** merchants need branded online stores with orders, payments, and finance/tax reporting without building a custom platform.  
+Multi-tenant e-commerce SaaS: branded storefronts, merchant admin, catalog and inventory, checkout, Stripe payments, plus finance and VAT reporting. React/TypeScript, C# / ASP.NET Core, PostgreSQL, Stripe.
+
+
+
+[FreeStuff](https://freestuff.fi) · freestuff.fi  
+**Problem:** people need a low-friction way to give away and find free items locally.  
+Community marketplace backend from concept to production: listings, matching flows, and data model for a consumer product in Finland. React/TypeScript, ASP.NET Core, PostgreSQL.
+
+
+**RDI Software Development Intern**  
+Centria University of Applied Sciences  
+Applied RDI software projects with mobile apps and Azure cloud tooling in a collaborative research team.
+
+
+**Software Development Intern**  
+TUTORS Finland Oy  
+Supported feature implementation and delivery of software features in a small team.
 
 ---
 
@@ -77,7 +86,7 @@ Supported feature implementation in a small team.
 - **Email:** michaelshodamola1@gmail.com  
 - **LinkedIn:** [linkedin.com/in/michael-shodamola](https://www.linkedin.com/in/michael-shodamola-4400b528b/)  
 - **GitHub:** [github.com/michaelshodamola](https://github.com/michaelshodamola)  
-- **Location:** Kokkola, Finland  
+- **Location:** Finland  
 
 ---
 
